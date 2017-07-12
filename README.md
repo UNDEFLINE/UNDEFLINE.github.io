@@ -8,14 +8,12 @@
 <img src="http://pic2.52pk.com/files/allimg/160218/5329500_1626454053.jpg" class="img">
 <img src="http://pic2.52pk.com/files/allimg/170518/5329500_1F9502C4.jpg" class="img">
 <hr/>
-						<h1>发条魔灵 奥莉安娜<center></h1>
+						<h1>发条魔灵 奥莉安娜<center>
 								<p><span>俗称</span><span>发条,女偶</span></p>
 					<h5>英雄售价</h5>
 					<div>
 						<strong class="m1">3000点券</strong>
 						<strong class="m2">6300金币</strong>
-					</div>
-				</div>
 			</div>
 			<div class="hero_box_2">
 				<ul class="info_li">
@@ -98,7 +96,7 @@
      <dd>2.6</dd>
 <hr/>
 <div class="xx_sq">奥莉安娜打法多样。主升Q 可能会决定你这场是DPS.主升W，中立，主升E，可能会决定你这场是辅助。奥莉安娜最好和高爆英雄一路。或者跟具有眩晕和陷阱技能的英雄，还有治疗和辅助英雄搭档也不错。
-</div><a href="javascript:void(0)">【详细】</a>
+</div><a href="javascript:void(0)">【详细】
 <ul class="content_li anchor_skillflow">
 		<li>
 		<img src="http://i1.17173cdn.com/1tx6lh/YWxqaGBf/images/abilities/oriannapassive.jpg" alt="发条协奏"></a>
@@ -188,7 +186,6 @@
 <hr/>
 	<h5>版本更新</h5>
 </div>
-</form>
 <form name="inputform" action="search.asp" method="get">
 召唤师名字: <input typ"text" name="user">
 <input type="你的建议" value="你的建议"></form>
