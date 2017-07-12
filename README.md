@@ -99,7 +99,7 @@
 </div><a href="javascript:void(0)">【详细】
 <ul class="content_li anchor_skillflow">
 		<li>
-		<img src="http://i1.17173cdn.com/1tx6lh/YWxqaGBf/images/abilities/oriannapassive.jpg" alt="发条协奏"></a>
+		<img src="http://i1.17173cdn.com/1tx6lh/YWxqaGBf/images/abilities/oriannapassive.jpg" alt="发条协奏">
 		<ul>
 			<li>
 				<h6>发条协奏 </h6>
