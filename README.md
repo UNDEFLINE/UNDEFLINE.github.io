@@ -2,12 +2,12 @@
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <body>
 <div class="hero_bg">
-				<img src="http://i1.17173cdn.com/1tx6lh/YWxqaGBf/images/hero_skin/Orianna_0.jpg" class="img">
+<img src="http://i1.17173cdn.com/1tx6lh/YWxqaGBf/images/hero_skin/Orianna_0.jpg" class="img">
 <img src="http://pic2.52pk.com/files/allimg/140724/2D0S4_211021L61.jpg" class="img">
 <img src="http://pic2.52pk.com/files/allimg/141218/5329500_12250KV6.jpg" class="img">
 <img src="http://pic2.52pk.com/files/allimg/160218/5329500_1626454053.jpg" class="img">
 <img src="http://pic2.52pk.com/files/allimg/170518/5329500_1F9502C4.jpg" class="img">
-	<hr/>
+<hr/>
 						<h1>发条魔灵 奥莉安娜<center></h1>
 								<p><span>俗称</span><span>发条,女偶</span></p>
 					<h5>英雄售价</h5>
@@ -55,7 +55,8 @@
 				</ul>
 			</div>
 奥莉安娜
-<form><select size=“1” multiple><option selected>英雄故事</option></select>
+<form>    <select size=“1” multiple>
+     <option selected>英雄故事</option>    </select>
 <textarea rows=“500” cols=“300” wrap=“off”>
 来自皮尔特沃夫的科林丶瑞菲克有一个女儿，名字叫奥莉安娜。奥莉安娜是他的掌上明珠，对他而言极其重要。虽然奥莉安娜很有跳舞天赋，但她却对英雄联盟的英雄极其着迷，所以她辛苦训练，希望有朝一日也能成为其中一员。不幸的是，奥利安娜从未经历风雨，她的纯真无邪带来了很多危险甚至失去了性命。宝贝女儿的死让科林心痛欲绝，他陷入了极度绝望，并从此沉迷于研究高科技。科林无法忍受女儿的死所带来的空虚，因此他决定制造一个替代品——一个可以实现奥莉安娜加入联盟愿望的替代品。科林以女儿之名创造了一个发条杀人机器，他不仅知道女儿注定要成为联盟的英雄，而且他也意识到时代在不停变化。一来可以当宠物，二来可以当保护者。这个与奥莉安娜共生的产物采用了独特的高科技，更依赖于电力而非机械发条。
 现在，奥莉安娜和她的魔偶一同成为了联盟的英雄，她将有时被误导的道德作为自己的行动指南。她真诚地想融入身边的人，然而，无论她多么努力，她也不能成为真正的人类，人们对她始终抱着警惕和异样的眼光。虽然奥莉安娜尝试着和联盟里的英雄交朋友，但是极少人能适应她非人的气质。对很多人来说，她只是一个没有灵魂的发条空壳——危险且致命。然而 ，在她父亲眼里，她永远都是最完美的。
@@ -96,12 +97,9 @@
  <dt><strong>攻击力成长</strong></dt>	
      <dd>2.6</dd>
 <hr/>
-<script type="text/javascript" src="/lol/js/data.js"></script>	<div class="content_info">
-	<div class="text_overflow">
 <div class="xx_sq">奥莉安娜打法多样。主升Q 可能会决定你这场是DPS.主升W，中立，主升E，可能会决定你这场是辅助。奥莉安娜最好和高爆英雄一路。或者跟具有眩晕和陷阱技能的英雄，还有治疗和辅助英雄搭档也不错。
 </div><a href="javascript:void(0)">【详细】</a>
 </div>
-
 </div>
 <ul class="content_li anchor_skillflow">
 		<li>
@@ -109,8 +107,7 @@
 		<ul>
 			<li>
 				<h6>发条协奏 </h6>
-				<p>奥莉安娜的普通攻击造成额外魔法伤害。若重复攻击同个目标，伤害加强。</p>			</li>
-														</ul>
+				<p>奥莉安娜的普通攻击造成额外魔法伤害。若重复攻击同个目标，伤害加强。</p>			</li>			</ul>
 		<div>
 		<em></em>
 			<h6>技能细节</h6>
