@@ -184,9 +184,9 @@
 	</ul>
 <br>
 <hr/>
-	<h5>版本更新</h5>
+<h5>版本更新</h5>
 <form name="inputform" action="search.asp" method="get">
-召唤师名字: <input typ"text" name="user">
+召唤师名字: 
 <input type="你的建议" value="你的建议"></form>
 </body>
 </html>
