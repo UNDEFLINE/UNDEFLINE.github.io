@@ -42,7 +42,7 @@
 									</ul>
 			</div>
 				<ul class="num_li">
-					<li><strong>生命值</strong>  517</span></li>
+					<li><strong>生命值</strong><span class="hero2">517</span></li>
 					<li><strong>生命值回复</strong><span class="hero2">6.874</span></li>
 					<li><strong>魔法值</strong><span class="hero3">334</span></li>
 					<li><strong>魔法值回复</strong><span class="hero4">6</span></li>
@@ -53,7 +53,6 @@
 					<li><strong>护甲</strong><span class="hero7">17.04</span></li>
 					<li><strong>魔法抗性</strong><span class="hero8">30</span></li>
 				</ul>
-			</div>
 奥莉安娜
 <br>
 <form>   <select size="1" multiple>
@@ -183,8 +182,8 @@
 <h5 class="s_tit s_tit2">同类英雄</h5>
 <ul class="thing_list suit_list">
 		<li>
-		<img src="http://i1.17173cdn.com/1tx6lh/YWxqaGBf/images/hero/lux_square_0.jpg" alt="光辉女郎"></a>
-		<p>光辉女郎</p></a>
+		<img src="http://i1.17173cdn.com/1tx6lh/YWxqaGBf/images/hero/lux_square_0.jpg" alt="光辉女郎">
+		<p>光辉女郎</p>
 	</li>
 	</ul>
 <br>
