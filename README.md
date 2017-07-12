@@ -234,7 +234,7 @@ jibeixinxi
 </div>
 <form name=“inputform” action=“search.asp” method=“get”>
 	
-<召唤师名字: <input typ“text” name=“user”>
+召唤师名字: <input typ“text” name=“user”>
 	
 <input type=“你的建议” value=“你的建议”>
 </form>
